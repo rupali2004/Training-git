@@ -5,3 +5,5 @@ b=20
 print (a+b)
 print "done"
 print "good"
+if 1<2:
+   print "True"
